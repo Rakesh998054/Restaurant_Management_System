@@ -183,7 +183,7 @@ This project demonstrates practical knowledge of:
 > This project showcases a complete role-based restaurant management solution that applies core web development concepts, including authentication, database management, CRUD operations, session handling, and responsive interface design using PHP, MySQL, HTML5, and CSS3.
 
 
-## Deployed in Vercel app : https://restaurant-management-system-two-alpha.vercel.app/ .  
+## Deployed in Vercel app : https://restaurant-management-system-two-alpha.vercel.app/ . 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 
 ![image](https://github.com/Powsishan/Restaurant-Management-System-/assets/138444583/c084daa1-bf9a-43bb-af0b-ff27aeb23709)
