@@ -1,5 +1,10 @@
 # 🍽️ Restaurant Management System
 
+## Deployed in Vercel app : https://restaurant-management-system-two-alpha.vercel.app/ . 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+
+# Overview
+
 A comprehensive **Restaurant Management System** developed using **PHP, MySQL, HTML5, and CSS3** to digitize and streamline restaurant operations. The application follows a **three-panel architecture** with dedicated portals for **Admin**, **Staff**, and **Customers**, providing secure role-based access and an efficient workflow for restaurant management.
 
 Designed with scalability and maintainability in mind, the system enables administrators to manage the restaurant efficiently, staff members to process orders seamlessly, and customers to enjoy a smooth online food ordering experience.
@@ -183,7 +188,7 @@ This project demonstrates practical knowledge of:
 > This project showcases a complete role-based restaurant management solution that applies core web development concepts, including authentication, database management, CRUD operations, session handling, and responsive interface design using PHP, MySQL, HTML5, and CSS3.
 
 
-## Deployed in Vercel app : https://restaurant-management-system-two-alpha.vercel.app/ . 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
 
 
 ![image](https://github.com/Powsishan/Restaurant-Management-System-/assets/138444583/c084daa1-bf9a-43bb-af0b-ff27aeb23709)
