@@ -3,7 +3,7 @@
 ## Deployed in Vercel app : https://restaurant-management-system-two-alpha.vercel.app/ . 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 
-# Overview
+# 📌 Project Overview
 
 A comprehensive **Restaurant Management System** developed using **PHP, MySQL, HTML5, and CSS3** to digitize and streamline restaurant operations. The application follows a **three-panel architecture** with dedicated portals for **Admin**, **Staff**, and **Customers**, providing secure role-based access and an efficient workflow for restaurant management.
 
